@@ -1,5 +1,5 @@
 # Présentation
-Exercice sur la manipulation des fichiers (ecriture / lecture) avec le langage C. 
+Exercice sur la manipulation des fichiers (écriture / lecture) avec le langage C. 
 
 # Technologies 
  Langage C
